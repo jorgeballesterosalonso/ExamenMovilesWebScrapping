@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964801198813",
+    "project_id": "examenpmdmt2-jorgeballesteros",
+    "storage_bucket": "examenpmdmt2-jorgeballesteros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964801198813:android:c58efaa6145b98fc4af934",
+        "android_client_info": {
+          "package_name": "com.pass.examenpmdmt2_jorgeballesteros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964801198813-g8vn080hpei2d519fjg4eg06tnre65d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQeZzRR2pwR1if7XsGmaCwQd2__90tmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964801198813-g8vn080hpei2d519fjg4eg06tnre65d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
